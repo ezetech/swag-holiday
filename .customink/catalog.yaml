@@ -1,6 +1,6 @@
 name: swag-holiday
 
-owner: swag_core # team definitions at https://app.opslevel.com/teams
+owner: swag # team definitions at https://app.opslevel.com/teams
 
 purpose: # multiple choice
   # - do_not_track # demo testing personal - will not be tracked in catalog
